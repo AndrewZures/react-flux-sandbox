@@ -9,14 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel" : "latest",
-    "react" : "latest",
-    "flux"  : "latest",
+    "babel": "latest",
+    "react": "latest",
+    "flux": "latest",
     "lodash": "latest",
-    "gulp"  : "latest"
+    "gulp": "latest",
+    "babelify": "latest"
   },
   "devDependencies": {
-    "jasmine" : "latest"
+    "jasmine": "latest"
   }
-
 }
